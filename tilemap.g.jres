@@ -1,0 +1,33 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAxMDYwNjA2MDYwNjA2MDYwNjA5MDYwNjA5MDYwNjAyMDcwYTA5MDkwOTA5MDkwOTBhMDkwYTBhMGEwYTA5MDgwOTBhMGEwYTBhMDkwYTBhMGEwOTBhMDkwOTA5MDkwOTA3MGEwYTBhMGEwOTBhMGEwYTA5MGEwOTBhMGEwYTA4MDkwOTA5MDkwYTA5MDkwOTA5MDkwYTA5MGEwOTA5MDgwNzBhMGEwYTBhMGEwYTBhMGEwOTBhMGEwYTA5MGEwODA3MGEwOTA5MDkwOTA5MDkwYTA5MGEwYTBhMDkwYTA4MDcwYTA5MGEwYTBhMGEwOTBhMGEwYTA5MDkwOTBhMDgwNzBhMDkwYTA5MDkwYTA5MDkwOTA5MDkwYTBhMGEwYzA5MGEwOTA5MDkwYTBhMDkwYTBhMGEwYTBhMGEwOTA4MGIwYTBhMGEwOTBhMDkwOTBhMDkwOTA5MGEwYTA5MDgwOTBhMDkwOTA5MGEwOTBhMGEwOTBhMGEwYTBhMDkwODA3MGEwOTBhMGEwYTA5MGEwYTA5MGEwYTA5MDkwOTA4MDcwYTA5MGEwYTA5MDkwOTA5MDkwOTBhMGEwOTBhMDgwNzBhMGEwYTBhMGEwYTA5MGEwYTBhMGEwYTA5MGEwODAzMDkwNTA1MDkwNTA1MDUwNTA1MDkwNTA1MDkwNTA0MDAwMDAwMDAyMDAwMDIwMDAwMjIyMjIyMjAwMDAwMDIwMjAwMjAwMDIwMjAyMjIyMDAwMDIwMDAyMDIwMDAwMDIyMjIyMDIyMjIyMDIwMDIwMDAwMDAwMDIwMDAyMDAwMDAyMjIyMjIyMDAwMjAwMDAwMDIwMDIwMDAyMDIyMDAwMDAyMjIyMDIyMjIwMDAwMDIyMjAyMjAwMDAwMDAwMjAwMDAwMjIyMjAyMjAwMDIwMjIyMDIwMjIwMDAwMDAyMDAwMjAwMDIyMDAwMjIwMjAwMDIyMDIyMjIwMjIwMDAwMDAwMDAyMDAwMDAyMDAwMjAwMDAyMDAwMDAyMjAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath3",
+            "sprites.castle.tilePath7",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath6",
+            "sprites.builtin.forestTiles0",
+            "sprites.castle.tilePath5",
+            "sprites.dungeon.collectibleBlueCrystal",
+            "sprites.dungeon.collectibleInsignia"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
