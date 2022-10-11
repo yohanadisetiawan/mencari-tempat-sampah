@@ -114,8 +114,8 @@ game.setDialogFrame(img`
     ..dddddddddddddddddddddddddddddddddddddddddddd..
     `)
 game.showLongText("Mencari lokasi tempat membuang sampah di Sekolah\\nOleh: Yohan A.S.\\nSMPN 2 Kalitidu\\nBojonegoro\\nJawa Timur-Indonesia", DialogLayout.Full)
-game.showLongText("" + game.askForString("Nama Pemain:", 12) + "!, carilah titik akhir tempat sampah selama 60 detik.\\nKumpulkan poin untuk menambah nyawa setelah 3 poin, dengan memilih lambang sekolah.", DialogLayout.Full)
-game.showLongText(" Hindari penjaga agar nyawa kamu tidak berkurang.\\nSelamat bermain jangan lupa berdoa terlebih dahulu!", DialogLayout.Full)
+game.showLongText("" + game.askForString("Nama Pemain:", 12) + "!, carilah titik akhir tempat sampah selama 60 detik.\\nKumpulkan poin untuk menambah nyawa setelah mendapat 3 poin, dengan mencari lambang sekolah.", DialogLayout.Full)
+game.showLongText(" Hindari Penjaga agar nyawa tidak berkurang.\\nSelamat bermain jangan lupa berdoa terlebih dahulu!", DialogLayout.Full)
 tiles.setCurrentTilemap(tilemap`level1`)
 info.startCountdown(60)
 Makanan = sprites.create(assets.image`LogoSMPN2Ktd`, SpriteKind.Food)
